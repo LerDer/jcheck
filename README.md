@@ -401,7 +401,7 @@ public class UserServiceImpl implements UserService {
 在Service中使用，其实在和Controller使用是一样的。
 
 项目代码
-
+<a href="https://github.com/LerDer/jcheck.git" target="_blank">GitHub</a>
 
 还可以再进一步，把这个项目作为一个Starter，在开发时直接引入依赖，就可以使用了。
 可以看一下我的博客
